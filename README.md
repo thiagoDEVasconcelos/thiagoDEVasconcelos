@@ -27,9 +27,9 @@
 
 ## 📊 GitHub Stats
 
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
+![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?thiagoDEVasconcelos=SEU_USERNAME&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?thiagoDEVasconcelos=SEU_USERNAME&layout=compact&theme=radical)
 
 ---
 

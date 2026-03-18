@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thiago Sousa
+# 👋 Hi, I'm Thiago de Vasconcelos
 
 🚀 Fullstack Developer with 2+ years of experience building real-world applications.
 

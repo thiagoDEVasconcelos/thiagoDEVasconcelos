@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoDEVasconcelos&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoDEVasconcelos&show_icons=true&theme=dark&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoDEVasconcelos&layout=compact&theme=dark"/>
 

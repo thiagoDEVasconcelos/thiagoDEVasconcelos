@@ -30,7 +30,7 @@
 ## 📊 GitHub Stats
 
 <div align="start">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoDEVasconcelos&layout=compact&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoDEVasconcelos&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
 </div>
 
 ---

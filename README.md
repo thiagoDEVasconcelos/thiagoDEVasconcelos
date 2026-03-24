@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thiago de Vasconcelos
+<img width="527" height="837" alt="image" src="https://github.com/user-attachments/assets/8a42c8b4-d097-4f96-850a-8d67ef0e6124" /># 👋 Hi, I'm Thiago de Vasconcelos
 
 🚀 Fullstack Developer with 2+ years of experience building real-world applications.
 
@@ -30,11 +30,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoDEVasconcelos&show_icons=true&theme=dark&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoDEVasconcelos&layout=compact&theme=dark"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoDEVasconcelos&layout=compact&theme=github_dark"/>
 </div>
 
 ---

@@ -1,4 +1,4 @@
-<img width="527" height="837" alt="image" src="https://github.com/user-attachments/assets/8a42c8b4-d097-4f96-850a-8d67ef0e6124" /># 👋 Hi, I'm Thiago de Vasconcelos
+# 👋 Hi, I'm Thiago de Vasconcelos
 
 🚀 Fullstack Developer with 2+ years of experience building real-world applications.
 

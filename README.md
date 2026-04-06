@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thiago de Vasconcelos
+# 👋 Hello world, I'm Thiago de Vasconcelos
 
 🚀 Fullstack Developer with 2+ years of experience building real-world applications.
 
@@ -48,10 +48,6 @@
 
 - 💼 LinkedIn: linkedin.com/in/thiagovsousa/
 - 📧 Email: thiagovsousa21@gmail.com
-
----
-
-⭐ Always learning, always building.
 
 <!--
 **thiagoDEVasconcelos/thiagoDEVasconcelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

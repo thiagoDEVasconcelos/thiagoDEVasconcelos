@@ -29,9 +29,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="start">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoDEVasconcelos&layout=compact&theme=tokyonight&cache_seconds=1800)
-</div>
 
 ---
 

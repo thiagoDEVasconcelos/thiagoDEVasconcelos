@@ -27,12 +27,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoDEVasconcelos&layout=compact&theme=tokyonight&cache_seconds=1800)
-
----
-
 ## 💡 About Me
 
 - 💼 Working as a Fullstack Developer (Part-time)
